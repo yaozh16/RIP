@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yaozh16/VirtualBox VMs/shareCN/socket-rip/rip.c
+rip.h
+/home/yaozh16/VirtualBox VMs/shareCN/socket-rip/rip.h
+
+/home/yaozh16/VirtualBox VMs/shareCN/socket-rip/rip.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+string.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+net/if.h
+-
+pthread.h
+-
+ifaddrs.h
+-
+arpa/inet.h
+-
+netinet/ip.h
+-
+sys/time.h
+-
+pthread.h
+-
+

@@ -1,0 +1,3 @@
+/home/yaozh16/VirtualBox VMs/shareCN/socket-rip/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yaozh16/VirtualBox VMs/shareCN/socket-rip/cmake-build-debug/CMakeFiles/Test.dir
+/home/yaozh16/VirtualBox VMs/shareCN/socket-rip/cmake-build-debug/CMakeFiles/rebuild_cache.dir
